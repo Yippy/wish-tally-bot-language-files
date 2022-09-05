@@ -265,9 +265,9 @@ module.exports = {
   rateSecondAttemptEmoji: "🙌",
   rateSecondAttemptName: "Se utilizó la compasión actual",
   rateSecondAttemptDetailed: "Se utilizó la compasión en el banner actual",
-  rateResultLeftPercentageLayout: "[EMOJI]`[VALUE]|[PERCENTAGE]%`",
+  rateResultLeftPercentageLayout: "`[EMOJI][VALUE]|[PERCENTAGE]%`",
   rateResultCenterPercentageLayout: "▰",
-  rateResultRightPercentageLayout: "`%[PERCENTAGE]|[VALUE]`[EMOJI]",
+  rateResultRightPercentageLayout: "`%[PERCENTAGE]|[VALUE][EMOJI]`",
   rateResultPercentageCovered: "▰",
   rateResultPercentageUncovered: "▱",
 

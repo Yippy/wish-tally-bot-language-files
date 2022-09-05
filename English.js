@@ -265,9 +265,9 @@ module.exports = {
   rateSecondAttemptEmoji: "🙌",
   rateSecondAttemptName: "Used Current Pity",
   rateSecondAttemptDetailed: "Used pity on current banner",
-  rateResultLeftPercentageLayout: "[EMOJI]`[VALUE]|[PERCENTAGE]%`",
+  rateResultLeftPercentageLayout: "`[EMOJI][VALUE]|[PERCENTAGE]%`",
   rateResultCenterPercentageLayout: "▰",
-  rateResultRightPercentageLayout: "`%[PERCENTAGE]|[VALUE]`[EMOJI]",
+  rateResultRightPercentageLayout: "`%[PERCENTAGE]|[VALUE][EMOJI]`",
   rateResultPercentageCovered: "▰",
   rateResultPercentageUncovered: "▱",
 

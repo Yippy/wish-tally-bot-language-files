@@ -265,9 +265,9 @@ module.exports = {
   rateSecondAttemptEmoji: "🙌",
   rateSecondAttemptName: "Usou a Piedade atual",
   rateSecondAttemptDetailed: "Usou a piedade na Banner atual",
-  rateResultLeftPercentageLayout: "[EMOJI]`[VALUE]|[PERCENTAGE]%`",
+  rateResultLeftPercentageLayout: "`[EMOJI][VALUE]|[PERCENTAGE]%`",
   rateResultCenterPercentageLayout: "▰",
-  rateResultRightPercentageLayout: "`%[PERCENTAGE]|[VALUE]`[EMOJI]",
+  rateResultRightPercentageLayout: "`%[PERCENTAGE]|[VALUE][EMOJI]`",
   rateResultPercentageCovered: "▰",
   rateResultPercentageUncovered: "▱",
 
