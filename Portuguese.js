@@ -1,14 +1,6 @@
 module.exports = {
-  // List
+  // Discord Emoji List
   // https://emzi0767.gl-pages.emzi0767.dev/discord-emoji/discordEmojiMap-canary.json
-  genshinVersions: {
-    "1": {"1.0": {},"1.1": {},"1.2": {},"1.3": {},"1.4": {},"1.5": {},"1.6": {}},
-    "2": {"2.0": {},"2.1": {},"2.2": {},"2.3": {},"2.4": {}, "2.5": {}, "2.6": {}, "2.7": {}, "2.8": {}},
-    "3": {"3.0": {},"3.1": {},"3.2": {},"3.3": {},"3.4": {}, "3.5": {}, "3.6": {}, "3.7": {}, "3.8": {}},
-  },
-  genshinLatestVersions: {
-    "version": "3.0", "image": "https://cdn.discordapp.com/attachments/814486266618970162/1012062259029229679/2022-08-24_combined_banner.png"
-  },
   makerUserId:"358320066770501632",
   discordEmbedLengthLimit: 10,
   contentsName: "Conteúdos", // Name of field
@@ -27,7 +19,7 @@ module.exports = {
     "Permanent Banner": "Desejo Comum",
     "Novice Banner": "Desejos de Novato",
   },
-  displayWeaponType: {
+  displayItemType: {
     "Character": "Personagem",
     "Weapon": "Arma",
   },
