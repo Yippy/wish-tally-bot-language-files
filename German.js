@@ -280,7 +280,7 @@ module.exports = {
   botEmoji: "<:wish_tally:1015215165500825611>",
   tallyName: "Menu",
   tallyTitle: "[EMOJI] Wish Tally Bot",
-  tallyDescription: "**[EMOJI] Willkommen zum Wish Tally Menü**\n__DerBot wird verwaltet von <@[USER_ID]>__",
+  tallyDescription: "**[EMOJI] Willkommen zum Wish Tally Menü**\n__Der Bot wird verwaltet von <@[USER_ID]>__",
   tallyDescriptionBot: "Benutze die unteren Knöpfe, um den [EMOJI] Wish Tally Bot zu steuern.",
   tallyDescriptionHelp: "Es werden nur Daten aus der Wish Tally Community hier dargestellt. Check die [EMOJI] Hilfeseite, bei Fragen. \n\n**Bitte merke dir** das __nur Die Person, die den Bot aufgerufen hat, diesen steuern kann.__.",
   /*
@@ -346,7 +346,7 @@ module.exports = {
   discordServerEmoji: "",
   discordServerName: "Join Server",
   helpStepsDescriptionLayout: "\n> [EMOJI][TITLE]",
-  helpDescription: "Mit der Auswahl der unteren Reaktionen, wird die relevante Hilfe geladen.\n\nWish Tally ist ein Google Sheet Addon welches hilft deine Wünsche zu tracken. Dies ist notwendig, damitd ei Wünsche mit der Wish Tally Community geteilt werden können.",
+  helpDescription: "Mit der Auswahl der unteren Reaktionen, wird die relevante Hilfe geladen.\n\nWish Tally ist ein Google Sheet Addon welches hilft deine Wünsche zu tracken. Dies ist notwendig, damit die Wünsche mit der Wish Tally Community geteilt werden können.",
   helpStep1Title: "Schritt 1 - [EMOJI]",
   helpStep1Description: "Wie bekomme ich Wish Tally",
   helpStep2Title: "Schritt 2 - [EMOJI]",
