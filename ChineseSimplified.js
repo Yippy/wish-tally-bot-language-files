@@ -1,6 +1,7 @@
 module.exports = {
-  // Discord Emoji List
-  // https://emzi0767.gl-pages.emzi0767.dev/discord-emoji/discordEmojiMap-canary.json
+  /* Translated by:
+   * kanna#0357 (first draft)
+   */
   makerUserId:"358320066770501632",
   discordEmbedLengthLimit: 10,
   contentsName: "内容", // Name of field
@@ -23,7 +24,21 @@ module.exports = {
     "Character": "角色",
     "Weapon": "武器",
   },
-  
+  languageList: {
+    "English": "English",
+    "ChineseSimplified": "Chinese Simplified",
+    "ChineseTraditional": "Chinese Traditional",
+    "French": "French",
+    "German": "German",
+    "Portuguese": "Portuguese",
+    "Spanish": "Spanish",
+    "Indonesian": "Indonesian",
+    "Japanese": "Japanese",
+    "Korean": "Korean",
+    "Russian": "Russian",
+    "Thai": "Thai",
+    "Vietnamese": "Vietnamese"
+  },
   rarity5StarEmoji: "⋆⋆⋆⋆⋆",
   rarity5StarName: "五星",
   rarity4StarEmoji: "⋆⋆⋆⋆",
