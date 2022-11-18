@@ -23,7 +23,21 @@ module.exports = {
     "Character": "Character",
     "Weapon": "Weapon",
   },
-
+  languageList: {
+    "English": "English",
+    "ChineseSimplified": "Chinese Simplified",
+    "ChineseTraditional": "Chinese Traditional",
+    "French": "French",
+    "German": "German",
+    "Portuguese": "Portuguese",
+    "Spanish": "Spanish",
+    "Indonesian": "Indonesian",
+    "Japanese": "Japanese",
+    "Korean": "Korean",
+    "Russian": "Russian",
+    "Thai": "Thai",
+    "Vietnamese": "Vietnamese"
+  },
   rarity5StarEmoji: "⋆⋆⋆⋆⋆",
   rarity5StarName: "5 Star",
   rarity4StarEmoji: "⋆⋆⋆⋆",
@@ -186,7 +200,7 @@ module.exports = {
   findingAccountName: "Finding Account",
   findingAccountEmoji: "🔎",
   findingAccountMessageNotFound: "Error! Unable to find your account details data from Community Account\nIf you have not joined the community go to Help page to find out how to share your Wish Tally Document, if you recently have please wait for Community to update.",
-  findingAccountMessageException: "Error! Unable to extract data from Community Document [DOCUMENT_VERSION].",
+  findingAccountMessageException: "Error! Unable to extract data from Community account sheet.",
   findingAccountMessageError: "Error unable to find Community Account sheet",
 
   displayRankMessageError: "Error unable to find Community Document [DOCUMENT_VERSION].",

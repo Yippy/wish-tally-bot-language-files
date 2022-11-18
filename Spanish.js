@@ -202,7 +202,7 @@ module.exports = {
   findingAccountName: "Buscando Cuenta",
   findingAccountEmoji: "🔎",
   findingAccountMessageNotFound: "¡Error! No se pudo encontrar los detalles de tu cuenta del documento de la Comunidad\nSi no te has unido a la comunidad, selecciona el botón de 'Help' para aprender como compartir tu Documento de Wish Tally, si ya lo hiciste, por favor espera a que se actualice.",
-  findingAccountMessageException: "¡Error! No se pudo extraer información del Documento de la Comunidad [DOCUMENT_VERSION].",
+  findingAccountMessageException: "¡Error! No se pudo extraer información de la hoja de la cuenta de la comunidad",
   findingAccountMessageError: "Error, no se pudo encontrar la hoja de la Cuenta de la Comunidad",
 
   displayRankMessageError: "Error, no se pudo encontrar el Documento de la Comunidad [DOCUMENT_VERSION].",
